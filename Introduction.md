@@ -1,0 +1,3 @@
+# Mikey Morrissey, Claire Cofield, Chase Lane
+### Introduction and Metric Explanation
+Our goal with this project was to find the “best” neighborhood in Pittsburgh, based on the datasets we selected from the WPRDC. The datasets we selected were public water features and walkability. For each metric, we ranked each of the 65 neighborhoods in Pittsburgh on a scale up to 100. Then, to find an overall “best” neighborhood, we combined the two scores together, weighting the walkability score as 70% of the overall score and the water features score as 30%. We chose to weight the walkability score higher because it measures the people in the neighborhood’s access to multiple amenities without a car, rather than just their access to water-based amenities.
